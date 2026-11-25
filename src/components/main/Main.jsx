@@ -9,10 +9,10 @@ export default function Main() {
   return (
     <>
       <Focus />
+      <Education />
       <Experience />
       <Projects />
       <Skills />
-      <Education />
       <Contact />
     </>
   );
